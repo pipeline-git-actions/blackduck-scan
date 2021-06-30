@@ -1,3 +1,3 @@
 FROM linjith/blackduck-scan-task:latest
 
-ENTRYPOINT ["/launch.sh"]
+ENTRYPOINT ["/epl/launch.sh"]
